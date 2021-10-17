@@ -1,2 +1,2 @@
-# arduino
+# arduino projects
 Arduino hobby projects
